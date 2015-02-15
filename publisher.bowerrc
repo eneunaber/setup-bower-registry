@@ -1,0 +1,11 @@
+{
+  "analytics": false,
+  "timeout": 120000,
+  "registry": {
+    "search": [
+      "http://localhost:8080",
+      "https://bower.herokuapp.com"
+    ],
+    "register": "http://localhost:8080"
+  }
+}
